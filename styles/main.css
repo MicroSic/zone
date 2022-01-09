@@ -136,3 +136,10 @@ h2 {
 nav ul.inline li a {
   display: block;
 }
+
+      /*鼠标选中底色*/
+*::selection {
+    color: #fff;
+    background-color: #b85798;
+}
+    
